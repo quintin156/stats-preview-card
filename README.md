@@ -1,14 +1,13 @@
 # Frontend Mentor - Stats preview card component solution
 
-This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
+  - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -32,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/quintin156/stats-preview-card)
-- Live Site URL: [Add live site URL here](https://quintin156.github.io/stats-preview-card/)
+- Solution URL: [https://github.com/quintin156/stats-preview-card]
+- Live Site URL: [https://quintin156.github.io/stats-preview-card/]
 
 ## My process
 
@@ -46,13 +45,11 @@ Users should be able to:
 - Mobile-first workflow
 - Tailwind CLI
 
-
 ### What I learned
 
-I learned some cool tailwind 
+I learned some cool tailwind
 
 ## Author
 
 - Website - [Quintin](https://www.quintin-latimore.com)
 - Frontend Mentor - [@quintin156](https://www.frontendmentor.io/profile/quintin156)
-
